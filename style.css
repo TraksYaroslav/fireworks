@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 3px solid blue;
+    padding: 8px;
+    border-radius: 15px
+}
+header a {
+    color: green;
+    text-decoration: none;
+}
+header b{
+    color: blue
+}
+h1 {
+    color: red;
+    border: 3px solid purple;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+    font-family: cursive;
+}
+footer p{
+ border: 2px solid blueviolet;
+ background-color: lightblue;
+ padding: 3px
+}
+nav a{
+border: 2px solid red;
+border-radius: 50px;
+padding: 3px;
+text-decoration: none;
+margin: 40px;
+background-color: darkblue;
+color: white
+}
+.xlop {
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 5px;
+}
+.pet {
+       border: 3px solid darkorange;
+    border-radius: 20px;
+     padding: 5px;
+}
+.fontan {
+       border: 3px solid red;
+    border-radius: 20px;
+     padding: 5px;
+}
+.whar {
+       border: 3px solid green;
+    border-radius: 20px;
+     padding: 5px;
+}
+h2 {
+    color: blue;
+}
+ a{
+    text-decoration: none;
+    border: 3px solid orange;
+    padding: 5px;
+    border-radius: 20px;
+}
